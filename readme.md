@@ -1,4 +1,5 @@
 # Database Schema
+![Tux, the Linux mascot](https://github.com/tOxicV4p0r/database/blob/main/diagram.png?raw=true)
 
 ## Customer Table
 
